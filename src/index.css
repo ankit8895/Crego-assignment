@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +10,9 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} */
+
+body {
+  background: url('https://media2.giphy.com/media/3o7TKKNP4fW7LA9h7O/giphy.gif?cid=ecf05e47skrnc4ndo2z0kk3k689trpsgjakl9dhb3r7abp17&ep=v1_gifs_related&rid=giphy.gif&ct=g');
+  background-size: cover;
 }
