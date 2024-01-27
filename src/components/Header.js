@@ -8,11 +8,11 @@ const Header = () => {
         <Navbar.Brand>
           <img
             alt=''
-            src='https://cdn-icons-png.flaticon.com/128/1927/1927715.png'
+            src='https://cdn-icons-png.flaticon.com/128/1935/1935173.png'
             width='30'
             height='30'
             className='d-inline-block align-top'
-          />
+          />{' '}
           Expression Engine
         </Navbar.Brand>
       </Container>
