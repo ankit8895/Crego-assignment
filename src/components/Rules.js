@@ -4,9 +4,9 @@ import { Container, Row, Col, Form, Button } from 'react-bootstrap';
 
 const Rules = ({ expressions, deleteExpression, combinator }) => {
   return (
-    <Container>
-      <Row>
-        <h1 className='text-center fw-bold text-info'>All Applied Rules</h1>
+    <Container className='py-4'>
+      <Row className='mb-4'>
+        <h1 className='text-center fw-bolder text-info'>All Applied Rules</h1>
       </Row>
       {expressions.length === 0 ? (
         <Row className='d-flex justify-content-center align-items-center'>
